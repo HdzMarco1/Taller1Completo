@@ -1,0 +1,50 @@
+label{
+    margin-top: 25px;
+    margin-left: 25px;
+    font-size: 20px;
+}
+
+#select{
+    width: 500px;
+    display: inline;
+}
+
+#boton{
+    float: right;
+    margin-right: 250px;
+    width: 250px;
+}
+
+#tabla{
+    margin-top: 200px;
+}
+
+h4{
+    display: inline;
+}
+
+h6{
+    padding-top: 10px;
+    
+}
+
+#botonElimi{
+    float: right;
+    margin-right: 50px;
+}
+
+#numero{
+    margin-left: 600px;
+    margin-right: 0px;
+    padding-right: 0px;
+    width: 50px;
+}
+
+#total{
+    display: inline;
+    margin-left: 970px;
+}
+
+td{
+    width: 25%;
+}
